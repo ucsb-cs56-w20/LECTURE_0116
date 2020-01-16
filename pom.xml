@@ -22,7 +22,7 @@
           <archive>
             <manifest>
               <!-- full package name of class with the main you want to run -->
-              <mainClass>${mainClass}</mainClass>
+              <mainClass>edu.ucsb.cs56.w20.Hello</mainClass>
             </manifest>
           </archive>
         </configuration>
